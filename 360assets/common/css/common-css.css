@@ -1,0 +1,59 @@
+*{margin:0;padding:0;}
+.posR{position:relative;}
+.error{background:#ffebe8;border:1px solid #dd3c10;padding:10px 20px;margin-bottom:10px;font:normal 0.9em arial;}
+.error img{vertical-align:middle;margin:-5px 5px 0 0;border-radius:3px;}
+.success_msg{background:#d4fecc;border:1px solid #a1da96;padding:10px 20px;margin-bottom:10px;font:normal 0.9em arial;border-radius:3px;}
+.success_msg img{vertical-align:middle;margin:-2px 5px 0 0;float:left;}
+.incFont{font-size:0.9em !impotant;}
+.expertBtn{position:fixed;right:0;top:250px;z-index:99999;cursor:pointer;}
+.expertBtn3{position:fixed;right:0;top:150px;z-index:99999;cursor:pointer;}
+.expertBtn1{position:fixed;right:0;top:400px;z-index:99999;cursor:pointer;}
+.imgresponsive{width:100%;}
+#fadeandscale{-webkit-transform:scale(0.8);-moz-transform:scale(0.8);-ms-transform:scale(0.8);transform:scale(0.8);}
+.popup_visible #fadeandscale{-webkit-transform:scale(1);-moz-transform:scale(1);-ms-transform:scale(1);transform:scale(1);}
+.well{box-shadow:0 0 10px rgba(0,0,0,0.3);display:none;margin:1em;}
+.thankPage{width:800px;margin:auto;padding:100px 0;}
+.thankPage img{display:block;margin:auto;}
+.thankPage p{background:#fff;border:1px solid #14850c;padding:50px;font:normal 19px/26px calibri;text-align:center;}
+.popupWidth{max-width:450px;min-width:320px;width:100%;margin:auto;position:relative;}
+.popupCnt{text-align:center;font-size:1.5em;padding:15px 0 5px 0;font-weight:600;color:#0081c1;}
+.popupWidth p{text-align:center;}
+.blueColorSolid{border-radius:0 0 5px 5px;background:#2d9ad8;padding:20px 0;}
+.mainformPart{width:100%;background:#FFF;border-radius:5px 5px 0 0;padding:35px 20px 20px 20px;}
+.blueColorSolid p{color:#FFF;font-size:1.5em;float:right;line-height:30px;}
+.blueColorSolid span{font-weight:800;}
+.inputfieldCnt{background:#FFF;border:1px solid #fe943e;height:44px;border-radius:5px;margin-top:20px;padding:3px;}
+.fontIcon{background:#fe943e;width:36px;height:36px;border-radius:5px;float:left;}
+.fontIcon img{display:block;margin:auto;padding:10px 0 0 10px;}
+.popupWidth input[type="text"]{border:medium none;float:left;height:34px;padding:0 0 0 10px;width:50%;font:400 0.85em 'Open Sans', sans-serif;}
+.setImgLgo{background:#fff;padding:20px;margin-top:44px;box-shadow:0 0 10px #000;}
+.popupWidth input[type="Button"]{border-radius:5px;background:#fe943e;color:#FFF;padding:4px 7px;border:medium none;font-family:'Open Sans', sans-serif;font-weight:600;font-size:0.91em;height:36px;cursor:pointer;}
+.crossBG{background:#eee;position:absolute;width:50px;top:0;right:0;height:30px;padding:3px 0 0 20px;}
+.crossBG a{color:#000;text-decoration:none;}
+.crossBG1{background:url('../images/fancybox_sprite.png') no-repeat scroll 0 0 rgba(0, 0, 0, 0);height:33px;position:absolute;right:-9px;top:-13px;width:33px;}
+.crossBG:hover{background:#F00;color:#fff!important;}
+.blueColorSolid p{color:#FFF;font:bold 28px arial;float:right;text-transform:uppercase;}
+.blueColorSolid span{font-size:14px;display:block;}
+.shortTag{font:normal 12px Arial, Helvetica, sans-serif;padding:0 0 5px 0px;text-align:center;color:#bce5fd;}
+.pjcetNamePop{float:right;padding:25px 0 0 0;}
+.fixShareIcon{position:fixed;right:0;top:140px;}
+.popBnrAd{text-align:center;font:normal 12px arial;color:#fff;padding:0 10px 0 0;}
+.popBnrAd span{text-transform:uppercase !important;display:block !important;font-size:40px !important;text-transform:uppercase;}
+.popBnrAd strong{font-size:14px !important;}
+.share_colr{background:#00bf00;padding:1px 1px 1px 2px;}
+.tblPayplantd{padding:5px;border-right:1px solid #ccc;border-bottom:1px solid #ccc;width:50%}
+.crossBGVideo{background:rgba(0, 0, 0, 0) url("../images/fancybox_sprite.png") no-repeat scroll 0 0;height:33px;position:absolute;right:-199px;top:-3px;width:33px;}
+.paddingb60{padding-bottom:40px;}
+.cl{clear:both;}
+.logoPlace12{background:#fff none repeat scroll 0 0;box-shadow:0 0 10px #000;left:0;padding:10px;position:absolute;top:10px;z-index:99999;}
+.hdr12{background:#fff none repeat scroll 0 0;padding:0;}
+.topStrip11 p{color:#fff;float:right;font-size:1.3em;font-weight:400;padding:4px 0 0;}
+.topStrip11{background:#007ece none repeat scroll 0 0;height:40px;font:bold 20px calibri;}
+.topStrip11 img{margin:-8px 0 0;vertical-align:middle;}
+.floatR{float:right;}
+.floatL{float:left;}
+.cf:before, .cf:after{content:"";display:table;}
+.cf:after{clear:both;}
+.cf{*zoom:1;}
+.ftr12{margin:190px 0 0 0px;border-top:2px solid #eee;}
+.popForm select{width:100%;border:none;height:33px;}
